@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "terraform aws"
+version = "0.1.0"
+description = ""
+authors = ["Aaron Garibay <ing.aarongaribay@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
